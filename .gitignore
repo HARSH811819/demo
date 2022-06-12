@@ -1,0 +1,6 @@
+error.log  
+//to ignore error.log file
+*.log  
+// to ignore all .log files
+/dir/
+myexcel.xlsx
